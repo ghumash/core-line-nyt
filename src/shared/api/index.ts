@@ -1,0 +1,1 @@
+export { fetchNYTNews } from "./newsApi"

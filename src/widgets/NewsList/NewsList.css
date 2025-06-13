@@ -1,0 +1,14 @@
+.news-list {
+    padding: 16px;
+
+    .news-day-group {
+        margin-bottom: 40px;
+
+        .news-date-heading {
+            margin-bottom: 10px;
+
+            font-size: 18px;
+            font-weight: 700;
+        }
+    }
+}
